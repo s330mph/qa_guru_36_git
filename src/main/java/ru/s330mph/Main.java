@@ -12,6 +12,6 @@ public class Main {
         System.out.println(msg);
     }
     private static String getMsg() {
-        return "qqqq";
+        return "qqqqaa";
     }
 }
