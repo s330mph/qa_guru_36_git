@@ -1,0 +1,1 @@
+rootProject.name = "qa_quru_36_git"
